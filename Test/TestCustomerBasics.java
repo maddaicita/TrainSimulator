@@ -6,7 +6,7 @@ import java.lang.reflect.Method;
 import org.junit.Test;
 
 /*
- * Author: Renata Rand McFadden
+
  * Unit tests for Customer class
  * Checks that Customer class exists with correct attributes, constants, constructors, and methods
  */
