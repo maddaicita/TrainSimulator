@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 import org.junit.Test;
 
 /*
- * Author: Renata Rand McFadden
+
  * Unit tests for Train class
  * Checks that Train class exists with correct attributes, constructors, and methods
  */
