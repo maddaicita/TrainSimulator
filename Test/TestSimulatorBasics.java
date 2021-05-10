@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 import org.junit.Test;
 
 /*
- * Author: Renata Rand McFadden
+
  * Unit tests for Simulator class
  * Checks that Simulator class exists with correct attributes, constants, constructors, and methods
  */
